@@ -11,4 +11,3 @@ link Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-c
 the Database used in the project already cleaned by removing all missing values.
 
 
-the Database used in the project already cleaned by removing all missing values.
